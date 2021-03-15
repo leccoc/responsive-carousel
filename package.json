@@ -1,5 +1,10 @@
 {
   "name": "responsive-carousel",
   "version": "1.0.0",
-  "author": "Eduardo Guzman"
+  "author": "Eduardo Guzman",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  }
 }
